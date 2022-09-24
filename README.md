@@ -23,13 +23,13 @@ _Adapted from [Twosleevers](https://twosleevers.com/instant-pot-butter-chicken/)
 - 1/4-1/2 cup chopped cilantro
 
 ## Instructions
-Instant Pot instructions
-1. Place all ingredients into an Instant Pot in the order listed, EXCEPT for the butter, cream and 1 teaspoon of the garam masala, mixing the sauce well before you place the chicken on top of the sauce. If it's frozen, push it into the sauce a bit so it defrosts better
-1. Close the cooker and set for 10 mins on high, and let it release pressure naturally for 10 minutes. After that, release all remaining pressure. 
-1. Open up the pot and remove the chicken carefully and set aside
-1. Blend together all the ingredients, preferably using an immersion blender
-1. Add the cut up butter, cream, cilantro, and garam masala and stir until well incorporated.
-	- It's best to let the sauce cool just a little before adding the butter and the cream. Adding it into the boiling sauce will make your sauce very thin. If that happens, just put it in the fridge for a little and let it thicken up. It should be thick enough to coat the back of a spoon
-1. Take out half the sauce and freeze for later or store in the fridge for 2-3 days
-1. Add the chicken back in and heat through. Break it up into smaller pieces if you need but don't shred it.
-1. Serve 
+1. Place all ingredients into an Instant Pot in the order listed, stopping at [To finish](#to finish].
+2. Mix well, submerge the chicken into the sauce
+3. Cook for 10 mins on high, natural release for 10 minutes.
+4. Remove the chicken, shred (🎸), and set aside.
+5. Use an immersion blender with the ingredients remaining in the instapot.
+6. Let the sauce cool a few minutes.
+7. Add the cut up butter, cream, cilantro, and garam masala and stir until well incorporated.
+8. _Optionally_, take out half the sauce and freeze for later or store in the fridge for 2-3 days.
+9. Add the chicken back in and heat through.
+10. Serve 
